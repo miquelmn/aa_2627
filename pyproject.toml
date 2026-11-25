@@ -5,6 +5,7 @@ description = "Material del curs 2026-2027 de l'assignatura Aprenentatge Automà
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "gensim",
     "matplotlib>=3.10.6",
     "notebook>=7.4.7",
     "numpy>=2.3.3",

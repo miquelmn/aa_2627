@@ -19,3 +19,6 @@ Durant aquest curs treballarem amb les següents tecnologies:
 4. MLP per imatges.
 5. Primera CNN.
 6. *Transfer learning*.
+7. Representació de paraules i *word2vec*.
+8. Generació de text amb una RNN (només Eivissa).
+9. *Transformers* amb `Hugging Face`.
